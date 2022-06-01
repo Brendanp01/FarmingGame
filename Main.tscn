@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://player.png" type="Texture" id=1]
+[ext_resource path="res://Player.cs" type="Script" id=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Player" type="Node" parent="."]
+script = ExtResource( 2 )
+
+[node name="Camera" type="Camera" parent="Player"]
+
+[node name="Sprite" type="Sprite" parent="Player"]
+texture = ExtResource( 1 )
