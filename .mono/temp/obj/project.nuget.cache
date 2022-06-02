@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKcemkfyVT7KeQ5eYMgbl/D3k+Av47kFrByuWgnLLxnnEP28JMZ0qoS60vvBAiQYWUXLbmWd4INgPzmJYJh2eQ==",
+  "success": true,
+  "projectFilePath": "/home/brendan/Games/FarmingGame/Farming Game.csproj",
+  "expectedPackageFiles": [
+    "/home/brendan/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/brendan/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

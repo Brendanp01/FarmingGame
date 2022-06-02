@@ -1,0 +1,9 @@
+/home/brendan/Games/FarmingGame/.mono/temp/bin/Debug/Farming Game.dll
+/home/brendan/Games/FarmingGame/.mono/temp/bin/Debug/Farming Game.pdb
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.csproj.AssemblyReference.cache
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.AssemblyInfoInputs.cache
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.AssemblyInfo.cs
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.csproj.CoreCompileInputs.cache
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.dll
+/home/brendan/Games/FarmingGame/.mono/temp/obj/Debug/Farming Game.pdb
